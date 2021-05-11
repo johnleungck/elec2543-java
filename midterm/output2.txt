@@ -1,0 +1,9 @@
+c1 = 3+4i
+c2 = 3+4i
+c3 = -5-3i
+
+Is c1 same as c2?  true
+
+The congjugate of c3 = -5+3i
+
+c1 * c3 = -3-29i
